@@ -3,4 +3,4 @@
 # Arduino_Gevangenis
 Arduino Nano
 
-Code used for project 'Faller gevangenis'.
+Arduino Nano 3.0 sketch for project 'Faller gevangenis'.
